@@ -39,3 +39,9 @@ Wenn du unsere Arbeit unterstützen möchtest, kontaktiere uns direkt:
 
 Mit deiner Unterstützung können wir Self-Heal, QuantumShield und SilentNet weiterentwickeln und global zugänglich machen.
 
+## Lizenzhinweis
+
+- Private & nichtkommerzielle Nutzung: frei.  
+- Kommerzielle Nutzung: **Lizenz erforderlich** (siehe [TERMS_COMMERCIAL.md](TERMS_COMMERCIAL.md)).  
+- Standardlizenzgebühr: ab 5.000 € pro Jahr.  
+- Kontakt: dennis.maier.official@proton.me
