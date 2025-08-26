@@ -1,0 +1,7 @@
+DENARIS_OS/
+├── core/
+│   └── init.py
+├── data/
+│   └── settings.json
+├── logs/
+├── start_denaris.py

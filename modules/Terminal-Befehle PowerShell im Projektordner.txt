@@ -1,0 +1,28 @@
+
+Terminal-Befehle** (PowerShell, im Projektordner):
+
+1. Komplettsystem starten
+
+```powershell
+py -3.11 start_denaris.py
+```
+
+2. Nur das Dashboard (ohne Boot-Sequence) starten
+
+```powershell
+py -3.11 -c "from interface.gui_dashboard import start_gui; start_gui()"
+```
+
+3. Logs-Verzeichnis öffnen
+
+```powershell
+ii .\logs
+```
+
+4. Desktop-Starter anlegen (legt eine „DENARIS OS.lnk“ auf den Desktop)
+
+```powershell
+$sc = New-Object -ComObject WScript.Shell; $lnk = $sc.CreateShortcut("$env:USERPROFILE\Desktop\DENARIS OS.lnk"); $lnk.TargetPath = (py -3.11 -c "import sys;print(sys.executable)" | Select-Object -Last 1); $lnk.Arguments = "start_denaris.py"; $lnk.WorkingDirectory = (Get-Location).Path; $lnk.IconLocation = "$pwd\interface\logo.png,0"; $lnk.Save()
+```
+
+
