@@ -1,0 +1,37 @@
+﻿# Standard: alle Textdateien mit LF speichern
+* text=auto eol=lf
+
+# PowerShell-Skripte (Windows-kompatibel mit CRLF)
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Shell-Skripte und Linux-Skripte
+*.sh text eol=lf
+
+# Python & JSON (immer LF)
+*.py text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Bilder & Binärdateien nie konvertieren
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.exe binary
+*.dll binary
+*.so binary
+*.zip binary
+*.tgz binary
+*.gz binary
+
+# Virtualenv & Packages ignorieren (keine Umwandlung)
+venv/** -text
+*.whl binary
+*.pyd binary
