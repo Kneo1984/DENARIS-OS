@@ -1,0 +1,9 @@
+﻿# Sponsorship-Konfiguration für GitHub Sponsors
+
+github: kneo1984          # Dein GitHub-Username
+patreon:                  # Optional: falls vorhanden
+open_collective:          # Optional
+ko_fi:                    # Optional
+custom:
+  - https://buymeacoffee.com/kneo1984
+  - mailto:dennis.maier.proton.me
