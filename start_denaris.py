@@ -1,4 +1,10 @@
-﻿import tkinter as tk
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+import tkinter as tk
 from datetime import datetime
 
 # === DENARIS-OS: Startmodul ===
@@ -52,3 +58,4 @@ old_start_system = start_system
 def start_system():
     old_start_system()
     selfheal_log("System gestartet - Selfheal aktiv - QuantumShield geladen.")
+

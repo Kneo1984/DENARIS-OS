@@ -1,4 +1,10 @@
-﻿# ===============================================
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# ===============================================
 # NetWatch  Netzwerküberwachung für DENARIS OS
 # ===============================================
 import threading, time, logging, psutil
@@ -68,3 +74,4 @@ def start_monitor_in_background(config=None, alert_callback=None):
     nw = NetWatch(config=config, alert_callback=alert_callback)
     nw.start()
     return nw
+

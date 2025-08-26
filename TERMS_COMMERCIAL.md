@@ -1,4 +1,10 @@
-﻿# Kommerzielle Nutzungsbedingungen  DENARIS-OS
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# Kommerzielle Nutzungsbedingungen  DENARIS-OS
 
 Copyright (c) 2025 Dennis Maier (KNEO).
 Alle Rechte vorbehalten.
@@ -18,3 +24,4 @@ Alle Rechte vorbehalten.
 ## Kontakt
 Bei Interesse an einer kommerziellen Lizenz:
 dennis.maier.official@proton.me
+

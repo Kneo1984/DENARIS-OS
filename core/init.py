@@ -1,4 +1,10 @@
-﻿# ===============================================
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# ===============================================
 # DENARIS OS  Kerninitialisierung
 # ===============================================
 import os, sys, json, logging
@@ -37,3 +43,4 @@ def start_core():
         logging.getLogger().exception("NetWatch konnte nicht gestartet werden: %s", e)
 
     print("Systemkern vollständig geladen.")
+

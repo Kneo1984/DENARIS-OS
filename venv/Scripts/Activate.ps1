@@ -1,3 +1,9 @@
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
 <#
 .Synopsis
 Activate a Python virtual environment for the current PowerShell session.
@@ -470,3 +476,4 @@ $Env:PATH = "$VenvExecDir$([System.IO.Path]::PathSeparator)$Env:PATH"
 # UeI7m44utNTSSZCJ9JV7bnniwqztrP/r2PTAxkUywoCzif6R863qJ/uQA0QQjq8t
 # +aR822g6YVyJsLYQKbpEgshG2QwzGHun5HkvawJ8
 # SIG # End signature block
+

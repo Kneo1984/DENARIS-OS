@@ -1,4 +1,10 @@
-﻿# ==========================================
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# ==========================================
 # DENARIS OS – Grafisches Kontrollzentrum
 # Datei: interface/gui_dashboard.py
 # Autor: Dennis Maier (KNEO1984)
@@ -299,3 +305,4 @@ def start_gui(config: dict | None = None):
 
 if __name__ == "__main__":
     start_gui()
+

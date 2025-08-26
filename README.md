@@ -1,4 +1,10 @@
-﻿# DENARIS-OS
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# DENARIS-OS
 **Das Betriebssystem für Schutz, Wahrheit und Wandel**
 
 ## Vision
@@ -32,3 +38,4 @@ Wenn du unsere Arbeit unterstützen möchtest, kontaktiere uns direkt:
  dennis.maier.official@proton.me  
 
 Mit deiner Unterstützung können wir Self-Heal, QuantumShield und SilentNet weiterentwickeln und global zugänglich machen.
+

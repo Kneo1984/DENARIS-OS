@@ -1,4 +1,10 @@
-﻿# ==========================================
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# ==========================================
 # DENARIS OS  Visuelle Oberfläche mit Logo
 # ==========================================
 
@@ -32,3 +38,4 @@ def start_gui():
 
 if __name__ == "__main__":
     start_gui()
+

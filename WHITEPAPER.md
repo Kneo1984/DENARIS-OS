@@ -1,4 +1,10 @@
-﻿# Whitepaper: DENARIS-OS
+﻿# =========================================================
+# DENARIS-OS © 2025 Dennis Maier (KNEO)
+# Alle Rechte vorbehalten.
+# Private & nichtkommerzielle Nutzung erlaubt.
+# Kommerzielle Nutzung nur mit ausdrücklicher Genehmigung.
+# =========================================================
+# Whitepaper: DENARIS-OS
 
 ## 1. Executive Summary
 DENARIS-OS ist ein hybrides Betriebssystem, das über bestehenden Systemen (Windows, Linux, WSL2) läuft und Schutz, Selbstheilung und autonome Steuerung ermöglicht.
@@ -40,3 +46,4 @@ Es verbindet Datenanalyse, Cybersicherheit und ethische KI zu einer Plattform f�
 
 ## 8. Vision
 DENARIS-OS ist mehr als Software  es ist ein Schutzschild für Mensch & Natur.
+
