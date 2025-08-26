@@ -45,3 +45,13 @@ Mit deiner Unterstützung können wir Self-Heal, QuantumShield und SilentNet wei
 - Kommerzielle Nutzung: **Lizenz erforderlich** (siehe [TERMS_COMMERCIAL.md](TERMS_COMMERCIAL.md)).  
 - Standardlizenzgebühr: ab 5.000 € pro Jahr.  
 - Kontakt: dennis.maier.official@proton.me
+---
+
+##  Sponsorship & Lizenzmodell
+
+- **Privatpersonen & NGOs:** freiwillige Unterstützung über GitHub Sponsors oder BuyMeACoffee.  
+- **Unternehmen (kommerziell):** Nutzung ist lizenzpflichtig (ab 5.000 €/Jahr).  
+- Sponsoring-Link: [GitHub Sponsors](https://github.com/sponsors/kneo1984)  
+- Direkter Kontakt: [ProtonMail](mailto:dennis.maier.proton.me)  
+
+Transparenz: Alle Einnahmen fließen in den weiteren Ausbau von DENARIS-OS, AUREON und QuantumShield.
