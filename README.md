@@ -24,3 +24,11 @@ powershell -ExecutionPolicy Bypass -File .\scripts\wsl_monster_selfheal.sh
 ## Screenshot
 ![GUI](docs/gui.png)
 
+## Unterstützung
+
+DENARIS-OS ist ein freies Projekt  entwickelt, um Mensch, Natur und Technologie zu verbinden.  
+Wenn du unsere Arbeit unterstützen möchtest, kontaktiere uns direkt:  
+
+ dennis.maier.official@proton.me  
+
+Mit deiner Unterstützung können wir Self-Heal, QuantumShield und SilentNet weiterentwickeln und global zugänglich machen.
