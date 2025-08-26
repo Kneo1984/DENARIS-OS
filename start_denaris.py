@@ -35,3 +35,20 @@ exit_button.pack(pady=5)
 # --- Start ---
 log_message("DENARIS-OS Initialisiert ... bereit.")
 root.mainloop()
+# --- Selfheal-Log Funktion ---
+import os
+
+log_dir = os.path.join(os.getcwd(), "logs")
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+
+def selfheal_log(msg):
+    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    with open(os.path.join(log_dir, "system.log"), "a", encoding="utf-8") as f:
+        f.write(f"[{timestamp}] {msg}\n")
+
+# Override start_system to also write log
+old_start_system = start_system
+def start_system():
+    old_start_system()
+    selfheal_log("System gestartet - Selfheal aktiv - QuantumShield geladen.")
