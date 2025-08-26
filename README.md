@@ -20,3 +20,7 @@ Starte das Selfheal-Skript:
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\scripts\wsl_monster_selfheal.sh
 ```
+
+## Screenshot
+![GUI](docs/gui.png)
+
